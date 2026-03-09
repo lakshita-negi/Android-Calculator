@@ -112,3 +112,7 @@ This project demonstrates:
 * Using external libraries (Rhino)
 * Creating a splash screen
 * Expression evaluation logic
+---
+![calc1](https://github.com/user-attachments/assets/325d3e6e-1e6b-4838-bb11-6d76c3084656)
+![calc2](https://github.com/user-attachments/assets/204ab012-7168-4d03-a54a-f16e6ea98393)
+
