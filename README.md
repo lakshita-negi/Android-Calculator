@@ -113,5 +113,5 @@ This project demonstrates:
 * Creating a splash screen
 * Expression evaluation logic
 ---
-[calc2](https://github.com/user-attachments/assets/7cd0b79d-e5e0-4f99-be28-953eda25f5c2)
-[calc1](https://github.com/user-attachments/assets/7b77383b-b19b-44cb-9546-ac92f941f29d)
+[Splash Scren](https://github.com/user-attachments/assets/7b77383b-b19b-44cb-9546-ac92f941f29d)
+[Main Screen](https://github.com/user-attachments/assets/7cd0b79d-e5e0-4f99-be28-953eda25f5c2)
